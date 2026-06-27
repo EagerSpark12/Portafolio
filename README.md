@@ -7,13 +7,13 @@ Actualmente continuo aprendiendo JavaScript y tecnologías Full Stack con el obj
 
 Tecnologias:
 
--HTML5
--CSS3
--Resopnsive Design
--Flexbox
--CSS Grid
--Git
--Github
+- HTML5
+- CSS3
+- Resopnsive Design
+- Flexbox
+- CSS Grid
+- Git
+- Github
 
 # Proyectos
 - Barberia El Corte Fino
